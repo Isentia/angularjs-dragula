@@ -2,7 +2,7 @@
   "name": "angularjs-dragula",
   "version": "1.2.8",
   "description": "Drag and drop so simple it hurts",
-  "main": "angular-dragula.js",
+  "main": "angularjs-dragula.js",
   "scripts": {
     "cp": "browserify node_modules/angular -o dist/angular.js",
     "build": "npm run scripts && npm run styles",
