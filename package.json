@@ -26,7 +26,7 @@
   "homepage": "https://github.com/bevacqua/angularjs-dragula",
   "dependencies": {
     "atoa": "1.0.0",
-    "dragula": "https://github.com/Isentia/dragula.git#a800c9e"
+    "dragula": "https://github.com/Isentia/dragula.git#6278476"
   },
   "devDependencies": {
     "angular": "1.4.3",
